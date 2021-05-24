@@ -56,9 +56,9 @@ This is things i want build, my inspiriton for this things was  [Build-your-own-
 - [ ] Web Server
 - [ ] Web Search Engin
 
-#Certificates
+# Certificates
 
-##Maybe i do
+## Maybe i do
 
 - [ ] AWS Developer
 - [ ] OSWP
