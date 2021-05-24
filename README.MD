@@ -10,6 +10,16 @@ This is some ideas for create bots to do things for me like AI
 - [ ] [Bot for create random posts](personal-use/bots/create-random-posts)
 - [ ] [Bot for making tweets that i would probably do](personal-use/bots/make-tweets)
 
+## AlgoExpert
+
+I bought algoexpert course for learn more alghortims and i have some goals for this course
+
+- [ ] Finish all easy challanges 
+- [ ] Finish all medium challanges
+- [ ] Finish 100 challanges
+- [ ] A* 
+- [ ] Dijkstra's Algorithm 
+
 ## Alghortims
 - [ ] [Binary Search algo demonstration the way was realized (in assembly)](algorithms/binary-search)
 - [ ] [DPS and BPF algothrims demonstration the way was realized the algo](algorithms/bpf-dps)
